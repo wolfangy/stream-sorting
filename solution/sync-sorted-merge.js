@@ -29,4 +29,3 @@ module.exports = (logSources, printer) => {
 
   return console.log("Sync sort complete.");
 };
--
